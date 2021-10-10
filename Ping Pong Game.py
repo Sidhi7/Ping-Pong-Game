@@ -1,5 +1,5 @@
 # Ping-Pong game with turtle module.
-# Done by Sri Manikanta Palakollu.
+# Done by Sidh.
 # Version - 3.7.0
 
 import turtle as t
